@@ -73,7 +73,9 @@ export default function Contacts() {
           <div className="flex flex-wrap gap-3 justify-center w-full md:mt-5 mt-3">
             <Link
               className="group md:px-5 md:py-3 md:text-base text-sm px-4 py-2 bg-black text-white font-bold flex flex-row gap-2 items-center transition-transform hover:scale-105 min-w-[200px]"
-              href="/"
+              href="mailto:tess.zhang@globalink.ai"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               <span>Contact Sales</span>
               <MoveRight
@@ -83,7 +85,9 @@ export default function Contacts() {
             </Link>
             <Link
               className="group md:px-5 md:py-3 md:text-base text-sm px-4 py-2 bg-black text-white font-bold flex flex-row gap-2 items-center transition-transform hover:scale-105 min-w-[200px]"
-              href="/"
+              href="mailto:tess.zhang@globalink.ai"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               <span>Investor Relations</span>
               <MoveRight
@@ -93,7 +97,9 @@ export default function Contacts() {
             </Link>
             <Link
               className="group md:px-5 md:py-3 md:text-base text-sm px-4 py-2 bg-black text-white font-bold flex flex-row gap-2 items-center transition-transform hover:scale-105 min-w-[200px]"
-              href="/"
+              href="mailto:tess.zhang@globalink.ai"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               <span>Request Information</span>
               <MoveRight
